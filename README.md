@@ -9,4 +9,4 @@ This is calculator app project that will enable one to add ,subtract,multiply an
 HTML
 JavaScript
 
-### LICENCE :(MIT)
+### LICENCE :(MIT)(https://github.com/Abijahkabiro/calculator/blob/master/LICENCE)
